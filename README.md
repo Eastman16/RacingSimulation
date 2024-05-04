@@ -10,3 +10,4 @@ This project is a 2D racing simulation developed using OpenGL and GLFW library i
 - **Stage 2: TBA**
 - **Stage 3: TBA**
 ## Demonstration
+![1](https://github.com/Eastman16/RacingSimulation/assets/129722863/7d849a6d-c261-43ef-9f4e-7142a20144ee)
